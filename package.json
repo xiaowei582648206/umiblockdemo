@@ -1,0 +1,23 @@
+{
+  "name": "@umi-block/myfirstbook",
+  "version": "0.0.1",
+  "description": "this is my first block",
+  "main": "src/index.js",
+  "authors": {
+    "name": "xiaowei",
+    "email": "xiaowei582649206@163.com"
+  },
+  "repository": "umijs/umi-blocks/myfirstbook",
+  "scripts": {
+    "dev": "umi dev"
+  },
+  "dependencies": {
+    "react": ">=16.0.0"
+  },
+  "devDependencies": {
+    "umi": "^2.9.0",
+    "umi-plugin-block-dev": "^2.0.0",
+    "umi-types": "^0.3.0"
+  },
+  "license": "MIT"
+}
